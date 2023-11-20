@@ -1,0 +1,19 @@
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding-top: 2rem;
+}
+
+.display {
+  min-height: 20rem;
+}
+.display__timer {
+  font-size: 10rem;
+  text-align: center;
+}
+
+#timer {
+  color: crimson;
+}
+
+/*# sourceMappingURL=style.css.map */
